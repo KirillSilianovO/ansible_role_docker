@@ -1,0 +1,14 @@
+galaxy_info:
+  author: Kirill Silianov
+  description: Role Description
+  company: your company (optional)
+
+  issue_tracker_url: http://example.com/issue/tracker
+
+  license: Apache-2.0
+
+  min_ansible_version: 2.9
+
+  galaxy_tags: []
+
+dependencies: []
