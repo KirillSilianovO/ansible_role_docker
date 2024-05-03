@@ -1,7 +1,6 @@
 galaxy_info:
   author: Kirill Silianov
-  description: Role Description
-  company: your company (optional)
+  description: Docker role
 
   issue_tracker_url: http://example.com/issue/tracker
 
