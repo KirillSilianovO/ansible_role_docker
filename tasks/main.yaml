@@ -77,4 +77,5 @@
     name:
       - docker
       - docker-compose
+    break_system_packages: true
     state: present
