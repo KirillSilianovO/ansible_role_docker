@@ -71,11 +71,3 @@
   become: true
   notify:
     - docker_user_add_to_group
-
-- name: Docker python plugin installed
-  ansible.builtin.pip:
-    name:
-      - docker
-      - docker-compose
-    break_system_packages: true
-    state: present
